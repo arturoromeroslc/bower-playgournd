@@ -1,0 +1,33 @@
+{
+  "name": "bower-playgournd",
+  "version": "0.0.1",
+  "homepage": "https://github.com/arturoromerotcs/bower-playgournd",
+  "authors": [
+    "Arturo <arturo.romerotcs@gmail.com>"
+  ],
+  "description": "Bower Example",
+  "main": "index.hmtl",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "Node",
+    "Bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.0.1",
+    "moment": "2.10.3",
+    "prism": "~1.0.0"
+  },
+  "devDependencies" : {
+    "hugrid" : "https://github.com/simanek/Heads-Up-Grid.git"
+  }
+}

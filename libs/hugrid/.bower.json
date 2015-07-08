@@ -1,0 +1,13 @@
+{
+  "name": "hugrid",
+  "homepage": "https://github.com/simanek/Heads-Up-Grid",
+  "_release": "e1759006a4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e1759006a4cd14cca31a4fb7c393029e8e56cba6"
+  },
+  "_source": "https://github.com/simanek/Heads-Up-Grid.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/simanek/Heads-Up-Grid.git"
+}
